@@ -1,2 +1,2 @@
-# algoritmos1
-Ejercicios de algoritmos y programación 1
+# Algoritmos y programación 1
+Mis ejercicios de algoritmos y progra 1
